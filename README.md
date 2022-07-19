@@ -1,5 +1,5 @@
 # Magisk on WSA (with Google Apps)
-
+[![Build WSA](https://github.com/Hashah2311/WSA/actions/workflows/magisk.yml/badge.svg?branch=main)](https://github.com/Hashah2311/WSA/actions/workflows/magisk.yml)
 ## Features
 
 - Integrate Magisk and OpenGApps in a few clicks within minutes
